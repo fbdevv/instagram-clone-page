@@ -8,6 +8,17 @@ Developer - https://t.me/pysmart
 If you need assistance on setting up the script and the usage, reach out to me on telegram 
 Telegram - https://t.me/pysmart
 
+# USAGE
+- HTML
+- CSS
+- JS
+- PHP
+- CPANEL
+- DOMAIN
+- SSL
+
+Contact developer: https://t/me/pysmart
+
 Keywords:
 Instagram phishing page
 Instagram phishing script
