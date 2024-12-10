@@ -25,6 +25,7 @@ Instagram phishing page
 Instagram phishing script
 Instagram clone page
 Instagram scam page
+Instagram login scampage
 
 Disclaimer:
 This is just for educational purpose and I do not have any involvement with any user of the script
