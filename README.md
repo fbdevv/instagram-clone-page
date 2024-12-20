@@ -1,13 +1,13 @@
 # instagram-phishing
 Instagram clone login page, Instagram phishing script. 
 
-Developer - https://t.me/pysmart
+Developer - https://t.me/profcoders
 
 ![photo_2024-12-07_01-44-58](https://github.com/user-attachments/assets/3084e2d3-6331-4f76-ba56-74189fa58aff)
 
 If you need assistance on setting up the script and the usage, reach out to me on telegram 
 
-Telegram - https://t.me/pysmart
+Telegram - https://t.me/profcoders
 
 # USAGE
 - HTML
@@ -18,7 +18,7 @@ Telegram - https://t.me/pysmart
 - DOMAIN
 - SSL
 
-Contact developer: https://t/me/pysmart
+Contact developer: https://t.me/profcoders
 
 Keywords:
 Instagram phishing page
@@ -30,7 +30,7 @@ Instagram login scampage
 Disclaimer:
 This is just for educational purpose and I do not have any involvement with any user of the script
 
-DEVELOPER: https://t.me/pysmart
+DEVELOPER: https://t.me/profcoders
 
 INSTAGRAM SCAMPAGE
 INSTAGRAM LOGIN SCRIPT
